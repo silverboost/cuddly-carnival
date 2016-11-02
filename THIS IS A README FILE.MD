@@ -1,0 +1,5 @@
+THIS IS A README FILE
+
+A BEGINNERS GUIDE
+
+adding this to commit
